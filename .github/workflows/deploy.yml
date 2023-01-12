@@ -1,6 +1,6 @@
 name: Deployment (Container)
 on:
-  workflow-dispatch:
+  workflow_dispatch:
     branches:
       - main
       - dev
